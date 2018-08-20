@@ -1,6 +1,4 @@
-# STA 243
-# Homework 5
-# Simulation
+
 rm(list=ls())
 # ============================Functions============================
 # 1. True function f: customized???
